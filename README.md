@@ -15,4 +15,4 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+
